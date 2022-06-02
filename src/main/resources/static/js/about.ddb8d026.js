@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkfont_end_vue"]=self["webpackChunkfont_end_vue"]||[]).push([[443],{5931:function(n,a,e){e.r(a),e.d(a,{default:function(){return v}});var s=e(3396);const u={class:"card"},c=(0,s._)("div",{class:"card-header"}," AboutView ",-1),r=(0,s._)("div",{class:"card-body"},[(0,s._)("div",{class:"about"},[(0,s._)("h1",null,"This is an about page")])],-1),t=[c,r];function d(n,a){return(0,s.wg)(),(0,s.iD)("div",u,t)}var i=e(89);const o={},l=(0,i.Z)(o,[["render",d]]);var v=l}}]);
+//# sourceMappingURL=about.ddb8d026.js.map
